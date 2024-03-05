@@ -1,5 +1,5 @@
 [tool.black]
-linr-length = 79
+line-length = 79
 exclude = '''
     venv/
     tests/
