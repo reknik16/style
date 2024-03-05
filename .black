@@ -1,0 +1,6 @@
+[tool.black]
+linr-length = 79
+exclude = '''
+    venv/
+    tests/
+'''
